@@ -2,7 +2,7 @@
 # 🎥 AI-Powered Auto Clip Generator
 # ==============================
 # Install dependencies (run once)
-!pip install openai-whisper yt-dlp webvtt-py transformers torch --quiet
+# !pip install openai-whisper yt-dlp webvtt-py transformers torch --quiet
 
 import os
 import re
@@ -167,3 +167,4 @@ for i, clip in enumerate(top3, 1):
     print(f"✅ Saved: {out_video} + {out_sub}")
 
 print("\n🎉 Done! Your top 3 clips and subtitles are ready.")
+
