@@ -24,3 +24,4 @@ Run the Gradio app:
 bash
 Copy code
 python yt_clip2.py
+Open the link shown in terminal (usually http://127.0.0.1:7860) in a browser.
