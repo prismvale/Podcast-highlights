@@ -45,3 +45,6 @@ sudo apt install ffmpeg
    python Podcast-highlights.py
    
 Open the link shown in terminal (usually http://127.0.0.1:7860) in a browser.
+
+![App Screenshot](demo.png)
+
