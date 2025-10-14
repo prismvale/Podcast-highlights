@@ -19,9 +19,9 @@ Generate smart clips from YouTube podcasts using sentiment + emotion analysis.
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
-Run the Gradio app:
 
-bash
-Copy code
-python yt_clip2.py
+3. Run the Gradio app:
+   ```bash
+   python yt_clip2.py
+   
 Open the link shown in terminal (usually http://127.0.0.1:7860) in a browser.
