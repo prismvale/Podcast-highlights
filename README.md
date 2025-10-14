@@ -14,11 +14,13 @@ Your system needs FFmpeg to extract video clips.
 ### Mac
 ```bash
 brew install ffmpeg
+```
 
 ### Linux (Debian/Ubuntu)
 ```bash
 sudo apt update
 sudo apt install ffmpeg
+```
 
 ## 🚀 How to Run
 
