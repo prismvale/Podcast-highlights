@@ -27,8 +27,8 @@ sudo apt install ffmpeg
 1. Get the project files:
    - **Option 1: Clone the repo (requires Git)**
      ```bash
-     git clone https://github.com/<your-username>/youtube-ai-clip-generator.git
-     cd youtube-ai-clip-generator
+     git clone https://github.com/prismvale/Podcast-highlights.git
+     cd Podcast-highlights
      ```
    - **Option 2: Download ZIP**
      1. Go to the GitHub repo page
