@@ -1,6 +1,8 @@
+gradio
 openai-whisper==20231117
-yt-dlp==2024.07.09
+yt-dlp
 webvtt-py==0.4.6
 transformers==4.44.2
-torch==2.4.0
+torch==2.8.0
+torchaudio==2.8.0
 ffmpeg-python==0.2.0
