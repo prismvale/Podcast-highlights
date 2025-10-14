@@ -2,6 +2,24 @@
 
 Generate smart clips from YouTube podcasts using sentiment + emotion analysis.
 
+## ⚠️ Prerequisite: Install FFmpeg
+
+Your system needs FFmpeg to extract video clips.
+
+### Windows
+1. Download the build from [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
+2. Extract the ZIP
+3. Add the `bin` folder to your system PATH
+
+### Mac
+```bash
+brew install ffmpeg
+
+### Linux (Debian/Ubuntu)
+```bash
+sudo apt update
+sudo apt install ffmpeg
+
 ## 🚀 How to Run
 
 1. Get the project files:
