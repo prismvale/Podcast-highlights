@@ -42,6 +42,6 @@ sudo apt install ffmpeg
 
 3. Run the Gradio app:
    ```bash
-   python yt_clip2.py
+   python Podcast-highlights.py
    
 Open the link shown in terminal (usually http://127.0.0.1:7860) in a browser.
